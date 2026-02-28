@@ -43,6 +43,4 @@ For languages, I rely on resources to gain knowledge and always stay up-to-date 
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gangulysiddhartha22-cmyk&label=Profile%20Views&color=00FF9D&style=for-the-badge" alt="Profile Views" />
-</div>
+
